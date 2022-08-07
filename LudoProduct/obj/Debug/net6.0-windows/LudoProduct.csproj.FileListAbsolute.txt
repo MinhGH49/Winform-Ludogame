@@ -1,0 +1,38 @@
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.GlobalUsings.g.cs
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.Ludo.resources
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.exe
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.deps.json
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.runtimeconfig.json
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.dll
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\bin\Debug\net6.0-windows\ref\LudoProduct.dll
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.pdb
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.dll
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\ref\LudoProduct.dll
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.pdb
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Test cac ham\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.Properties.Resources.resources
+D:\UIT\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.exe
+D:\UIT\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.deps.json
+D:\UIT\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.runtimeconfig.json
+D:\UIT\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.dll
+D:\UIT\LudoProduct\bin\Debug\net6.0-windows\ref\LudoProduct.dll
+D:\UIT\LudoProduct\bin\Debug\net6.0-windows\LudoProduct.pdb
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.GlobalUsings.g.cs
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.csproj.AssemblyReference.cache
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.Ludo.resources
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.Properties.Resources.resources
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.csproj.GenerateResource.cache
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.GeneratedMSBuildEditorConfig.editorconfig
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.AssemblyInfoInputs.cache
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.AssemblyInfo.cs
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.csproj.CoreCompileInputs.cache
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.dll
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\ref\LudoProduct.dll
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.pdb
+D:\UIT\LudoProduct\obj\Debug\net6.0-windows\LudoProduct.genruntimeconfig.cache
